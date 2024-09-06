@@ -1,4 +1,0 @@
-{
-    "python.defaultInterpreterPath": "${workspaceFolder}/fcenv/bin/python",
-    "python.terminal.activateEnvironment": true
-}
